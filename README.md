@@ -1,2 +1,1 @@
-Nos hemos clonado el proyecto del profesor Juan Quemada al ordenador de uno de los miembros. Una vez clonado, hemos creado en nuestro entorno
-gitHub
+Nos hemos clonado el proyecto del profesor Juan Quemada al ordenador de uno de los miembros. Una vez clonado, hemos creado en nuestro entorno gitHub un nuevo repositorio con el nombre random. Posteriormente, el segundo compañero ha realizado un fork del proyecto. Acto seguido,el segundo componente de la  pareja ha subido los documentos README.md y LICENSE.md y el segundo compañero ha realizado un pull-request del proyecto.
